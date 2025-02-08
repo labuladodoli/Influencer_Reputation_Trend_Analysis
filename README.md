@@ -18,7 +18,7 @@ The Version has the following issues, and I have made the following changes:
 -> Modify the analysis so that each video has its own calculated reputation score. Normalize the score by dividing it by the number of valid comments (comments related to the influencer), ensuring that the score falls within the range of -1 to 1. This makes the chart more meaningful.
 
 Version2 Analysis Result:
-![sentiment_scores](https://github.com/user-attachments/assets/ea26e686-bcbb-4d4e-b917-592a4596addd)
+![sentiment_scores_1](https://github.com/user-attachments/assets/31f96b66-a021-471e-ab6b-becfb7b0d8cd)
 
 
 
