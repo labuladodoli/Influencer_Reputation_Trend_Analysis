@@ -8,11 +8,13 @@ Version1:
 
 Version1 Analysis Result:
 
-![sentiment_scores_1](https://github.com/user-attachments/assets/3c13306c-a1c8-4eb8-b302-9514e50366f4)
+![plot](https://github.com/user-attachments/assets/02f339f1-195d-480f-bf07-fe3b5f5faec4)
 
 
 
 Version2:
+
+![sentiment_scores_1](https://github.com/user-attachments/assets/3c13306c-a1c8-4eb8-b302-9514e50366f4)
 
 The Version has the following issues, and I have made the following changes:
 1.Outdated version
