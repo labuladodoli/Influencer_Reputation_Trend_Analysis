@@ -8,7 +8,8 @@ Version1:
 
 Version1 Analysis Result:
 
-![plot](https://github.com/user-attachments/assets/21d64c2b-b4b8-47d8-b8d5-0f3a400e9d18)
+![sentiment_scores_1](https://github.com/user-attachments/assets/3c13306c-a1c8-4eb8-b302-9514e50366f4)
+
 
 
 Version2:
