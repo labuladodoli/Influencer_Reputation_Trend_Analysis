@@ -7,9 +7,6 @@ Version1:
 
 Version1 Analysis Result:
 
-
-
-
 ![plot](https://github.com/user-attachments/assets/21d64c2b-b4b8-47d8-b8d5-0f3a400e9d18)
 
 
