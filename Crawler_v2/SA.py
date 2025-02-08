@@ -34,7 +34,7 @@ for order in range(10):
 
 plt.plot(range(1, 11), scores, marker='o', linestyle='-', color='b')
 
-plt.title("Sentiment Score of Videos")
+plt.title("Influencer Reputation Trend Analysis")
 plt.xlabel("Video Release Order")
 plt.ylabel("Critic Score")
 
