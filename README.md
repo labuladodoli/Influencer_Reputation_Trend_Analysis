@@ -6,7 +6,6 @@ Version1:
 2.Input all comments into a sentiment analysis model (PaddlePaddle BiLSTM model) to determine whether they are positive or negative. Positive comments add 1 point, negative comments subtract 1 point, and neutral comments do not change the score. This helps track how the influencer's reputation trend changes as the number of comments increases.
 
 Version1 Analysis Result:
-
 ![plot](https://github.com/user-attachments/assets/21d64c2b-b4b8-47d8-b8d5-0f3a400e9d18)
 
 
