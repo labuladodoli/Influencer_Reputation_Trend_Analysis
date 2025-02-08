@@ -6,6 +6,7 @@ Version1:
 2.Input all comments into a sentiment analysis model (PaddlePaddle BiLSTM model) to determine whether they are positive or negative. Positive comments add 1 point, negative comments subtract 1 point, and neutral comments do not change the score. This helps track how the influencer's reputation trend changes as the number of comments increases.
 
 Version1 Analysis Result:
+
 ![plot](https://github.com/user-attachments/assets/21d64c2b-b4b8-47d8-b8d5-0f3a400e9d18)
 
 
@@ -19,6 +20,7 @@ The Version has the following issues, and I have made the following changes:
 -> Modify the analysis so that each video has its own calculated reputation score. Normalize the score by dividing it by the number of valid comments (comments related to the influencer), ensuring that the score falls within the range of -1 to 1. This makes the chart more meaningful.
 
 Version2 Analysis Result:
+
 ![sentiment_scores_1](https://github.com/user-attachments/assets/31f96b66-a021-471e-ab6b-becfb7b0d8cd)
 
 
