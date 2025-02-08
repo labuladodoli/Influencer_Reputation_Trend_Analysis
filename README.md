@@ -2,6 +2,7 @@
 It used to analyze the current reputation of a specific influencer on YouTube.
 
 Version1:
+
 1.Use the Selenium package to scrape all comments from the latest 30 videos of a specific influencer on YouTube. Then, filter the comments to retain only those containing keywords related to the influencer.
 2.Input all comments into a sentiment analysis model (PaddlePaddle BiLSTM model) to determine whether they are positive or negative. Positive comments add 1 point, negative comments subtract 1 point, and neutral comments do not change the score. This helps track how the influencer's reputation trend changes as the number of comments increases.
 
@@ -11,6 +12,7 @@ Version1 Analysis Result:
 
 
 Version2:
+
 The Version has the following issues, and I have made the following changes:
 1.Outdated version
 -> Update the environment and provide a list of installed packages.
