@@ -14,8 +14,6 @@ Version1 Analysis Result:
 
 Version2:
 
-![sentiment_scores_1](https://github.com/user-attachments/assets/3c13306c-a1c8-4eb8-b302-9514e50366f4)
-
 The Version has the following issues, and I have made the following changes:
 1.Outdated version
 -> Update the environment and provide a list of installed packages.
@@ -25,7 +23,8 @@ The Version has the following issues, and I have made the following changes:
 -> Modify the analysis so that each video has its own calculated reputation score. Normalize the score by dividing it by the number of valid comments (comments related to the influencer), ensuring that the score falls within the range of -1 to 1. This makes the chart more meaningful.
 
 Version2 Analysis Result:
-<img src="[https://github.com/user-attachments/assets/31f96b66-a021-471e-ab6b-becfb7b0d8cd]" width="300" />
+
+![sentiment_scores_1](https://github.com/user-attachments/assets/3c13306c-a1c8-4eb8-b302-9514e50366f4)
 
 
 
